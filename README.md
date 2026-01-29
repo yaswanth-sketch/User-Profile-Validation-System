@@ -1,7 +1,7 @@
 # User-Profile-Validation-System
 is profile valid or not
 User Profile Validation System
-📌 Project Description
+ Project Description
 
 The User Profile Validation System is a basic Python program that validates user details before saving them into a university web portal.
 It checks whether the entered information follows predefined rules for:
